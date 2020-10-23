@@ -2,7 +2,7 @@
 Bayesian seismic inversion: Fast sampling Langevin dynamics Markov chain Monte Carlo
 =========
 
-This code provides the implementation of the GJI manuscript - Bayesian seismic inversion: Fast sampling Langevin dynamics Markov chain Monte Carlo and the FWI solver used for this research is developed by Tristan van Leeuwen - T.vanLeeuwen@uu.nl (https://github.com/TristanvanLeeuwen/SimpleFWI/).
+This provides the implementation of the GJI manuscript - Bayesian seismic inversion: Fast sampling Langevin dynamics Markov chain Monte Carlo. We used two packages for this research, the AIR Tools II developed by Per Christian Hansen (http://people.compute.dtu.dk/pcha/software.html) and the FWI solver developed by Tristan van Leeuwen (https://github.com/TristanvanLeeuwen/SimpleFWI/).
 
 You need to download the SPOT Operator toolbox from http://www.cs.ubc.ca/labs/scl/spot/
 
